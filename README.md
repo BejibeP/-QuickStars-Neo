@@ -1,2 +1,5 @@
-# -QuickStars-Neo
-A collection of simple, ready-to-use templates to quickly start a project or integrate a project into a DevOps System
+# QuickStars-Neo
+
+A collection of simple, ready-to-use templates.
+You can quickly start a new project
+Or you can quickly setup a DevOps System
